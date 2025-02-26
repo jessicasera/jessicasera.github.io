@@ -2,4 +2,9 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 # Jessica Padron
+## Jessica Padron
+### Jessica Padron
+title: Jessica Padron
 description: Jessica Padron
+:EMOJICODE: :grinning:
+:EMOJICODE: :smiley:
